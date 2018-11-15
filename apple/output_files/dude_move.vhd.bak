@@ -1,0 +1,20 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+ENTITY move_dude IS
+	
+	PORT(
+		
+		dude_position : IN INTEGER;
+		 
+		
+END move_dude;
+
+ARCHITECTURE behavior OF move_dude IS
+BEGIN
+	PROCESS(dude_position)
+	BEGIN
+		dude_position <=200;
+	
+	END PROCESS;
+END behavior;

@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'b2v_inst2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'b2v_inst2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'b2v_inst2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.295
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : 9.891
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'b2v_inst2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.675
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'b2v_inst2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'b2v_inst2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.887
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'b2v_inst2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.796
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'b2v_inst2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'b2v_inst2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.368
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.574
+TNS   : 0.000
+
+------------------------------------------------------------
